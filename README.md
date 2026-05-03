@@ -1,43 +1,55 @@
 # 👩‍💻 Oumaima Jabbouri - Developer Portfolio
 
-## 🛠️ Tech Stack
-
-![C](https://img.shields.io/badge/C-blue)
-![Python](https://img.shields.io/badge/Python-yellow)
-![HTML](https://img.shields.io/badge/HTML-orange)
-![CSS](https://img.shields.io/badge/CSS-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-
----
-
-## 📌 About Me
-
-Student in Applied Informatics at Université Cadi Ayyad 🎓  
-I’m learning software development and building small projects using:
-
-- C programming 💻  
-- Python 🐍  
-- Web development (HTML, CSS, JavaScript) 🌐  
+<p align="left">
+<img src="https://img.shields.io/badge/C-blue" />
+<img src="https://img.shields.io/badge/Python-yellow" />
+<img src="https://img.shields.io/badge/HTML-orange" />
+<img src="https://img.shields.io/badge/CSS-blue" />
+<img src="https://img.shields.io/badge/JavaScript-yellow" />
+<img src="https://img.shields.io/badge/Level-beginner-green" />
+<img src="https://img.shields.io/badge/Status-learning-yellow" />
+</p>
 
 ---
 
-## 🚀 Projects
+## 🎓 About Me
+I am an Applied Informatics student at Cadi Ayyad University.  
+I am passionate about programming, web development, and problem solving.
 
-- 📌 Algorithm basics (C)
-- 📌 Python exercises
-- 📌 Simple web projects (HTML/CSS/JS)
+I enjoy learning new technologies and building small projects to improve my skills.
 
 ---
 
-## 🎯 Goals
+## 🛠️ Skills
+- 💻 C Programming (basics)
+- 🐍 Python (basics)
+- 🌐 HTML / CSS
+- ⚡ JavaScript (beginner)
+- 🧠 Algorithms & Problem Solving
 
-- Become a full-stack developer  
+---
+
+## 📂 My Projects
+- 🏋️ Fit With You (Web Project - HTML/CSS/JS)
+- 📘 Algorithm Basics Collection (Pseudo-code exercises)
+- 🧮 C Programming Exercises
+- 🐍 Python Practice Tasks
+
+---
+
+## 🚀 Goals
+- Improve my web development skills  
 - Build real-world projects  
-- Improve problem solving with algorithms  
+- Become a Full-Stack Developer  
+- Gain internship experience  
 
 ---
 
 ## 📫 Contact
+- 📧 Email: oumaimajabbouri38@gmail.com  
+- 💻 GitHub: https://github.com/oumaimajabbouri38-sketch  
+- 🔗 LinkedIn: https://www.linkedin.com/in/oumaima-jabbouri-97781131b  
 
-- Email: oumaimajabbouri38@gmail.com  
-- LinkedIn: in/oumaima-jabbouri-97781131b
+---
+
+⭐ Thanks for visiting my profile!
