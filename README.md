@@ -14,10 +14,8 @@
 
 ## 🎓 About Me
 I am an Applied Informatics student at Cadi Ayyad University.  
-I am passionate about programming, web development, and problem solving.
-
-I enjoy learning new technologies and building small projects to improve my skills.
-
+I am passionate about programming, web development, and problem solving.  
+I enjoy turning ideas into simple and useful projects.
 ---
 
 ## 🛠️ Skills
