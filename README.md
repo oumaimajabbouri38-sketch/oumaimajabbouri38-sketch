@@ -48,8 +48,8 @@ I am currently learning:
 ---
 
 ## 📫 Contact
-- Email: oumaimajabbouri@gmail.com  
-- GitHub: oumaimajabbouri38-sketch  
+- Email: oumaimajabbourii@gmail.com  
+- GitHub: https://github.com/oumaimajabbouri38-sketch
 - LinkedIn:https://www.linkedin.com/in/oumaima-jabbouri-97781131b/
 
 ---
