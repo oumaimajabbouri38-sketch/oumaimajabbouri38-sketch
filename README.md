@@ -57,5 +57,5 @@ I am currently learning:
 ⭐ Thanks for visiting my profile!
 
 ## 📫 Contact
-- Email: oumaima@example.com  
+- Email: oumaimajabbourii@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/oumaima-jabbouri-97781131b/
