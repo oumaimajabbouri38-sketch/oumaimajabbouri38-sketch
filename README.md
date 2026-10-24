@@ -1,4 +1,4 @@
-# 👩‍💻 Oumaima Jabbouri - Developer Portfolio
+# 👩‍💻 OUMAIMA JABBOURI- Developer Portfolio
 
 <p align="left">
 <img src="https://img.shields.io/badge/C-blue" />
